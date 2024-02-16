@@ -51,8 +51,8 @@ I am proficient in a diverse set of technologies and frameworks, including:
 
 ### Here are some of my notable projects:
 
-- [Job Land](https://github.com/Fatjon-Gash1/JobBoard_WebApp) *A job board web application written in plain php.*
-  
+- [Job Board](https://github.com/Fatjon-Gash1/JobBoard_WebApp) *A job board web application written in plain php.*
+- [Job Land](https://github.com/Fatjon-Gash1/JobLand_webapp) *Another job board web application written in plain php*
 - [RM System](https://github.com/Fatjon-Gash1/Restaurant_Management_WebApp) *A restaurant management system written in asp.net.*
 
 Feel free to explore my repositories for a closer look at my development journey!
