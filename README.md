@@ -10,34 +10,6 @@ I thrive on turning ideas into tangible software solutions and am always eager t
 - 🌐 Full-Stack Web Developer
 - 📱 Mobile App Developer (Android & Ios)
 - 🤖 Machine Learning Enthusiast
-
-## Skills
-
-I am proficient in a diverse set of technologies and frameworks, including:
-
-### Programming/Scripting Languages:
-
-- Java, PHP, C, C#, Python, Javascript, Bash, Lua
-
-### Frameworks:
-
-- **Back-end:** Spring Boot, Laravel, ASP.NET Core, Flask, Express.js
-
-- **Front-end:** React.js, Next.js, React Native, Tailwind css
-
-### Databases:
-
-- **SQL:** MySQL, MariaDB, PostgreSQL, MS SQL Server
-
-- **NoSQL:** MongoDB
-
-### Additionals:
-
-- **Cloud Computing Services:** Firebase
-
-- **Deployment:** Linux environment, Docker Containerization, Selenium testing
-
-- **Methodologies:** Agile SDLC, Scrum management framework
   
 ## 💻 Projects
 
